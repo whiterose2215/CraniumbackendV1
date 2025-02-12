@@ -1,0 +1,11 @@
+{
+    "settings": {
+      "backend_port": "3551"
+    },
+    "database": "mongodb://127.0.0.1/Kevin",
+    "game_server_ips": ["127.0.0.1:3551"],
+    "discord_bot_token": "MTMzOTAzMjQxMTc5NDU3MTI2NA.GtELFm.kQVQCojWLIzHjICPYb2wILefoSbbX5Yx5ZuWKA",
+    "moderators": [],
+    "build_version": "10.40"  
+  }
+  
